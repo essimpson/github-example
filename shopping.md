@@ -1,7 +1,6 @@
 =====================
-Shopping - 19/09/2017
+Shopping - 20/09/2017
 =====================
-
-Red wine
-White wine
-Champagne
+Shampoo
+Sun cream
+Euros
